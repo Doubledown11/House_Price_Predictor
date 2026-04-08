@@ -1,0 +1,21 @@
+house_id,"address,","price,","bedrooms,","bathrooms,","sqft,",avg_fam_income_neighborhood,url_link
+1,2942 Kostash Dr SW,1195000,4,4,3266,138800,https://www.realtor.ca/real-estate/29496748/2942-kostash-dr-sw-edmonton-keswick
+2,3644 Westcliff WY Sw,1980000,5,5,4547,196700,https://www.realtor.ca/real-estate/29496665/3644-westcliff-wy-sw-edmonton-windermere
+3,15651 2 St Ne,449900,3,3,1542,198100,https://www.realtor.ca/real-estate/29496450/15651-2-st-ne-edmonton-quarry-ridge
+4,873 Ryan PL Nw,658000,4,4,1912,192100,https://www.realtor.ca/real-estate/29496442/873-ryan-pl-nw-edmonton-rhatigan-ridge
+5,1175 Hainstock Green GR Sw,1200000,6,5,3154,212100,https://www.realtor.ca/real-estate/29496443/1175-hainstock-green-gr-sw-edmonton-hays-ridge-area
+6,17715 57 Av Nw,785000,6,4,3033,153200,https://www.realtor.ca/real-estate/29496410/17715-57-av-nw-edmonton-gariepy
+7,6704 164 Av Nw,498888,3,3,1388,133200,https://www.realtor.ca/real-estate/29495999/6704-164-av-nw-edmonton-ozerna
+8,8727 Carson Wy Sw,564900,3,3,1737,126200,https://www.realtor.ca/real-estate/29495993/8727-carson-wy-sw-edmonton-chappelle-area
+9,6855 171 Av Nw,799999,5,4,2626,135900,https://www.realtor.ca/real-estate/29495905/6855-171-av-nw-edmonton-schonsee
+10,17532 49 St Nw,539900,3,3,1845,136300,https://www.realtor.ca/real-estate/29494568/17532-49-st-nw-edmonton-cy-becker
+11,5104 Woolsey LI Nw,1699000,6,6,4153,211400,https://www.realtor.ca/real-estate/29494549/5104-woolsey-li-nw-edmonton-windermere
+12,3504 21 St Nw,519300,3,3,1837,137000,https://www.realtor.ca/real-estate/29493875/3504-21-st-nw-edmonton-wild-rose
+13,9738 75 Av Nw,1050000,4,4,2059,134900,https://www.realtor.ca/real-estate/29493755/9738-75-av-nw-edmonton-ritchie
+14,21352 90 Av Nw,480000,4,4,1399,138700,https://www.realtor.ca/real-estate/29493472/21352-90-av-nw-edmonton-suder-greens
+15,982 Hollingsworth Bn Nw,928800,4,3,1606,186100,https://www.realtor.ca/real-estate/29492536/982-hollingsworth-bn-nw-edmonton-hodgson
+16,7715 158S St Nw,899900,5,4,2228,140100,https://www.realtor.ca/real-estate/29491695/7715-158-st-nw-edmonton-patricia-heights
+17,11660 15 Av Nw Nw,428800,3,3,1795,174000,https://www.realtor.ca/real-estate/29491555/11660-15-av-nw-nw-edmonton-twin-brooks
+18,1607 80A St Nw,344800,3,1,991,110800,https://www.realtor.ca/real-estate/29488477/1607-80a-st-nw-edmonton-satoo
+19,475 Allard Bv Sw,769900,3,4,2259,139500,https://www.realtor.ca/real-estate/29488237/475-allard-bv-sw-edmonton-allard
+20,3912 30 St Nw,484900,4,3,1106,134400,https://www.realtor.ca/real-estate/29482559/3912-30-st-nw-edmonton-larkspur
